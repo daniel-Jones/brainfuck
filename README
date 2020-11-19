@@ -1,0 +1,9 @@
+a simple brainfuck interpreter
+
+```
+make
+./brainfuck numwarp.bf
+```
+type a number then press enter
+
+
